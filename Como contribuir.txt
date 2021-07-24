@@ -1,0 +1,9 @@
+🧩 Como contribuir
+
+*Faça um fork do repositório
+
+*Crie uma branch para sua feature: git checkout -b my-feature
+
+*Commite suas mudanças: git commit -m "My commit"
+
+*Realize o push da sua branch: git push origin my-feature
